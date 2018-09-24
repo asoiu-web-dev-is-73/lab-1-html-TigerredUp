@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title> Фанатам Арии </title>
+<style>
+span {background: blue; color:white;}
+
+</style>
+    </head>
+    <body>
+<h1>Сайт для поклонников группы "Ария" </h1>
+<h2>Гайд по творчеству</h2>
+<p><span> Последние альбомы:</span></p>
+<div>
+<ul><BR>
+    </body>
+</html>
